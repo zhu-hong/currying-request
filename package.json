@@ -30,5 +30,10 @@
   },
   "peerDependencies": {
     "axios": "^0.26.0"
+  },
+  "homepage": "https://github.com/zhu-hong/currying-request#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhu-hong/currying-request.git"
   }
 }
